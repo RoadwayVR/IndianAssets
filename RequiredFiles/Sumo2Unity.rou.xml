@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!-- generated on 2025-08-08 17:26:13 by Eclipse SUMO netedit Version 1.22.0
+-->
+
+<routes xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://sumo.dlr.de/xsd/routes_file.xsd">
+    <!-- VTypes -->
+    <vType id="301" length="4.68" width="2.32" height="1.47" color="0,0,128"/>
+    <vType id="302" length="4.68" width="2.32" height="1.47" color="132,132,132"/>
+    <vType id="303" length="4.06" width="1.84" color="66,66,66"/>
+    <vType id="304" length="4.07" width="1.84" color="228,58,58"/>
+    <vType id="305" length="4.81" guiShape="passenger" width="2.16" color="245,215,50"/>
+    <vType id="306" length="4.81" width="2.16" color="229,229,229"/>
+    <vType id="310" length="4.80" minGap="0.50" vClass="hov" guiShape="passenger/van" width="2.00" height="2.20" color="140,140,245" latAlignment="arbitrary"/>
+    <vType id="311" length="9.70" minGap="0.50" vClass="bus" width="2.70" color="157,225,46" latAlignment="arbitrary"/>
+    <vType id="312" length="4.00" minGap="0.50" guiShape="passenger/sedan" width="2.00" height="1.73" color="238,238,238" latAlignment="arbitrary"/>
+    <vType id="313" minGap="0.50" vClass="motorcycle" guiShape="rickshaw" width="1.30" height="1.90" latAlignment="arbitrary"/>
+    <vType id="DEFAULT_VEHTYPE" length="2.20" minGap="0.50" vClass="motorcycle" guiShape="rickshaw" width="1.30" height="1.90" latAlignment="arbitrary"/>
+    <vType id="EgoBike" length="1.80" vClass="bicycle" color="16,186,16"/>
+    <vType id="EgoCar" length="4.81" width="2.16" color="69,56,56"/>
+    <vType id="EgoScooter" length="1.09" vClass="scooter"/>
+</routes>
